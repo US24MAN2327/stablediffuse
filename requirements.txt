@@ -1,5 +1,5 @@
-torch==2.0.1
-transformers==4.32.0
-diffusers==0.18.0
-Pillow==10.0.0
-streamlit==1.26.0
+torch
+transformers
+diffusers
+Pillow
+streamlit
