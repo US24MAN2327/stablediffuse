@@ -3,3 +3,4 @@ transformers
 diffusers
 Pillow
 streamlit
+accelerate
