@@ -4,3 +4,4 @@ diffusers
 Pillow
 streamlit
 accelerate
+scipy
